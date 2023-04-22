@@ -164,7 +164,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.8.0",
     "jest-fetch-mock": "^2.1.2",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "ncp": "^2.0.0",
     "node-sass": "^4.13.1",
     "npm-logical-tree": "^1.2.1",
